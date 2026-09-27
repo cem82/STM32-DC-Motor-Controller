@@ -136,9 +136,8 @@ The speed is not measured, so the control is open-loop. The L298N also loses abo
 - [ ] UART ring buffer (fast input can lose characters)
 - [ ] Speed sensor and PID speed control
 
-<img width="565" height="757" alt="image" src="https://github.com/user-attachments/assets/02297abd-62b2-47de-b5f7-9977abc7f923" />
-
-<img width="797" height="796" alt="image" src="https://github.com/user-attachments/assets/6d2bd435-f31c-4795-96ce-66c3458decd8" />
+<img width="798" height="796" alt="Screenshot 2026-09-27 183103" src="https://github.com/user-attachments/assets/4b06010f-7058-4eed-8864-eab92495a5d9" />
+<img width="565" height="757" alt="Screenshot 2026-09-27 183041" src="https://github.com/user-attachments/assets/5acbc1d4-978b-4d46-bf61-84a45e983468" />
 
 ## AI disclosure
 
